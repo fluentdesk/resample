@@ -1,0 +1,74 @@
+
+Joe Q. Fullstacker
+Email: joe@fluentcv.com
+Tel: (999) 987-6543
+Web: http://fluentcv.com/joe
+
+***
+
+**Joe Fullstacker is a full-stack software developer** and solution architect with 10+ years industry experience, specializing in secure real-time CRM and data warehousing services for diverse clients ranging from startups to Fortune 500s. A native of southern CA, Joe enjoys fishing, crime novels, and the company of Rufus, his two-year-old beagle.
+
+
+SKILLS
+
+  - Web development: HTML 5, JavaScript, CSS, LAMP, WISC, HTTP, JSON, XML, web services, REST, WebSockets
+
+  - Javascript libraries and frameworks: Backbone.js, Angular.js, Node.js, NPM, Bower, Grunt, Gulp, jQuery, Bootstrap, Underscore.js, PhantomJS
+
+  - LAMP: Python, Perl, PHP, MySQL, PostgreSQL, NoSQL, Apache
+
+  - Client-side JS: JavaScript, Grunt, NPM, Bower, Browserify, Backbone.js, Angular.js, Gulp, jQuery, non-jQuery
+
+  - Cloud computing: AWS, EC2, RDS, S3, Azure, Rackspace
+
+  - Cross-platform C++: C++, C++ 11, Boost, Visual Studio, Xcode, gcc, OO&AD
+
+
+EMPLOYMENT
+
+Veridian Dynamics, Inc. (Jan 2012 — October 2015)
+Performed full-stack design, development and operational oversight of the Jabberwocky business services initiative.
+
+  - Architected J2EE service architecture supporting Jabberwocky 2.0 and the Nevada Concept.
+
+  - Managed a 6-member developer team against a rigorous iterative/incremental Fragile development process.
+
+  - Designed dozens of software solutions driving continuous improvement to processes, systems, work flow and customer responsiveness.
+
+  - Performed regular application maintenance and feature development of the BooYah<sup>2</sup> application framework.
+
+Gringotts (Jul 2008 — Jan 2012)
+Performed back-end development of J2EE enterprise services application for the Gringotts Wizarding Bank.
+
+  - Delivered v1.0 system prototype on time and at 90% of budget, an estimated 30% productivity increase over the GWB average.
+
+  - Performed iterative/incremental software development in a fast-paced team setting, with goblins.
+
+  - Mentored junior team members, led code reviews and team audits.
+
+Initrode (Jun 2005 — Jun 2008)
+Initrode is a provider of industrial-strength online merchant services for Fortune 500s.
+
+  - Implemented application UIs with Bangular.js in coordination with design team.
+
+  - As a key member of the integration team, led the organization-wide triage of Initech code and infrastructure assets after the acquisition.
+
+  - Led code reviews and team audits, culminating in promotion to Productivity Czar in charge of Code Quality.
+
+  - Designed and implemented dozens of feature additions and bug fixes to the CIS-10 general ledger suite.
+
+Stark Industries (Jun 2004 — May 2005)
+Zero-G Flight Systems and Test, Cerberos Division
+
+  - Hired directly out of my summer internship into full-service dev role on the Cerberos prototype.
+
+  - Implemented telemetry analysis management console application to spec.
+
+  - Heightened security of Cerberos validation and triage services.
+
+
+EDUCATION
+
+Boston University (Sept 2000 — Jun 2004)
+BS in Computer Science.
+

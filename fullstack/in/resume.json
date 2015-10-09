@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Joe Q. Fullstacker",
+    "label": "Full-stack developer",
+    "picture": "",
+    "email": "joe@fluentcv.com",
+    "phone": "(999) 987-6543",
+    "degree": "BSCS",
+    "website": "http://fluentcv.com/joe",
+    "summary": "**Joe Fullstacker is a full-stack software developer** and solution architect with 10+ years industry experience, specializing in secure real-time CRM and data warehousing services for diverse clients ranging from startups to Fortune 500s. A native of southern CA, Joe enjoys fishing, crime novels, and the company of Rufus, his two-year-old beagle.",
+    "location": {
+      "address": "9424 Somewhere Lane",
+      "postalCode": "CA 94027",
+      "city": "Menlo Park",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "joefstack",
+        "url": "http://github.com/joefstack"
+      },
+      {
+        "network": "Twitter",
+        "username": "joefstack",
+        "url": "http://twitter.com/joefstack"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Veridian Dynamics, Inc.",
+      "position": "Software Engineer / Project Manager",
+      "website": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
+      "startDate": "Jan 2012",
+      "endDate": "October 2015",
+      "summary": "Performed full-stack design, development and operational oversight of the Jabberwocky business services initiative.",
+      "highlights": [
+        "Architected J2EE service architecture supporting Jabberwocky 2.0 and the Nevada Concept.",
+        "Managed a 6-member developer team against a rigorous iterative/incremental Fragile development process.",
+        "Designed dozens of software solutions driving continuous improvement to processes, systems, work flow and customer responsiveness.",
+        "Performed regular application maintenance and feature development of the BooYah<sup>2</sup> application framework."
+      ]
+    },
+    {
+      "company": "Gringotts",
+      "position": "Principal Engineer",
+      "website": "http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank",
+      "startDate": "Jul 2008",
+      "endDate": "Jan 2012",
+      "summary": "Performed back-end development of J2EE enterprise services application for the Gringotts Wizarding Bank.",
+      "highlights": [
+        "Delivered v1.0 system prototype on time and at 90% of budget, an estimated 30% productivity increase over the GWB average.",
+        "Performed iterative/incremental software development in a fast-paced team setting, with goblins.",
+        "Mentored junior team members, led code reviews and team audits."
+      ]
+    },
+    {
+      "company": "Initrode",
+      "position": "Developer, Productivity Czar",
+      "website": "http://www.initrode.com/",
+      "startDate": "Jun 2005",
+      "endDate": "Jun 2008",
+      "summary": "Initrode is a provider of industrial-strength online merchant services for Fortune 500s.",
+      "highlights": [
+        "Implemented application UIs with Bangular.js in coordination with design team.",
+        "As a key member of the integration team, led the organization-wide triage of Initech code and infrastructure assets after the acquisition.",
+        "Led code reviews and team audits, culminating in promotion to Productivity Czar in charge of Code Quality.",
+        "Designed and implemented dozens of feature additions and bug fixes to the CIS-10 general ledger suite."
+      ]
+    },
+    {
+      "company": "Stark Industries",
+      "position": "Intern / Junior Developer",
+      "website": "https://en.wikipedia.org/wiki/Stark_Industries",
+      "startDate": "Jun 2004",
+      "endDate": "May 2005",
+      "summary": "Zero-G Flight Systems and Test, Cerberos Division",
+      "highlights": [
+        "Hired directly out of my summer internship into full-service dev role on the Cerberos prototype.",
+        "Implemented telemetry analysis management console application to spec.",
+        "Heightened security of Cerberos validation and triage services."
+      ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Digital Awesomeness Pioneer",
+      "date": "July 2011",
+      "awarder": "GrokLab",
+      "summary": "Invented novel ray-tracing technique for GrokLab's 'Summer of Code'."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Boston University",
+      "area": "BS in Computer Science.",
+      "studyType": "Bachelor of Science",
+      "startDate": "Sept 2000",
+      "endDate": "Jun 2004",
+      "gpa": "3.7",
+      "courses": []
+    }
+  ],
+
+  "publications": [{
+    "name": "Slices of Pi: Circular Compression for Multicore Systems",
+    "publisher": "Association of Computer Science Professionals",
+    "releaseDate": "Oct 2013",
+    "website": "",
+    "summary": "A theoretical description and working sample implementation of the [Slices of Pi compression algorithm](http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209) for quantum multicore systems."
+  }],
+
+  "volunteer": [
+  {
+    "organization": "Coders for Humanity",
+    "position": "Volunteer",
+    "website": "http://codersforhumanity.org",
+    "startDate": "Mar 2015",
+    "endDate": "Present",
+    "summary": "Coders for Humanity provides free community programming resources, training, and outreach.",
+    "highlights": []
+  }],
+
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML 5",
+        "JavaScript",
+        "CSS",
+        "LAMP",
+        "WISC",
+        "HTTP",
+        "JSON",
+        "XML",
+        "web services",
+        "REST",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Javascript libraries and frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "Backbone.js",
+        "Angular.js",
+        "Node.js",
+        "NPM",
+        "Bower",
+        "Grunt",
+        "Gulp",
+        "jQuery",
+        "Bootstrap",
+        "Underscore.js",
+        "PhantomJS"
+      ]
+    },
+    {
+      "name": "LAMP",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "Perl",
+        "PHP",
+        "MySQL",
+        "PostgreSQL",
+        "NoSQL",
+        "Apache"
+      ]
+    },
+    {
+      "name": "Client-side JS",
+      "level": "Advanced",
+      "keywords": [
+        "JavaScript",
+        "Grunt",
+        "NPM",
+        "Bower",
+        "Browserify",
+        "Backbone.js",
+        "Angular.js",
+        "Gulp",
+        "jQuery",
+        "non-jQuery"
+      ]
+    },
+    {
+      "name": "Cloud computing",
+      "level": "Beginner",
+      "keywords": [
+        "AWS",
+        "EC2",
+        "RDS",
+        "S3",
+        "Azure",
+        "Rackspace"
+      ]
+    },
+    {
+      "name": "Cross-platform C++",
+      "level": "Advanced",
+      "keywords": [
+        "C++",
+        "C++ 11",
+        "Boost",
+        "Visual Studio",
+        "Xcode",
+        "gcc",
+        "OO&AD"
+      ]
+    }
+  ]
+}
