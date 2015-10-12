@@ -1,6 +1,6 @@
 {
   "name": "resample",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha",
   "description": "Sample resumes for FluentCV / FluentCMD.",
   "private": true,
   "repository": {
