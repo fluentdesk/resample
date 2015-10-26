@@ -33,8 +33,8 @@
       "company": "Veridian Dynamics, Inc.",
       "position": "Software Engineer / Project Manager",
       "website": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
-      "startDate": "Jan 2012",
-      "endDate": "October 2015",
+      "startDate": "2012-01-01",
+      "endDate": "2015-10-01",
       "summary": "Performed full-stack design, development and operational oversight of the Jabberwocky business services initiative.",
       "highlights": [
         "Architected J2EE service architecture supporting Jabberwocky 2.0 and the Nevada Concept.",
@@ -47,8 +47,8 @@
       "company": "Gringotts",
       "position": "Principal Engineer",
       "website": "http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank",
-      "startDate": "Jul 2008",
-      "endDate": "Jan 2012",
+      "startDate": "2008-08-01",
+      "endDate": "2012-01-01",
       "summary": "Performed back-end development of J2EE enterprise services application for the Gringotts Wizarding Bank.",
       "highlights": [
         "Delivered v1.0 system prototype on time and at 90% of budget, an estimated 30% productivity increase over the GWB average.",
@@ -60,8 +60,8 @@
       "company": "Initrode",
       "position": "Developer, Productivity Czar",
       "website": "http://www.initrode.com/",
-      "startDate": "Jun 2005",
-      "endDate": "Jun 2008",
+      "startDate": "2005-06-01",
+      "endDate": "2008-06-01",
       "summary": "Initrode is a provider of industrial-strength online merchant services for Fortune 500s.",
       "highlights": [
         "Implemented application UIs with Bangular.js in coordination with design team.",
@@ -74,8 +74,8 @@
       "company": "Stark Industries",
       "position": "Intern / Junior Developer",
       "website": "https://en.wikipedia.org/wiki/Stark_Industries",
-      "startDate": "Jun 2004",
-      "endDate": "May 2005",
+      "startDate": "2004-06-01",
+      "endDate": "2005-05-01",
       "summary": "Zero-G Flight Systems and Test, Cerberos Division",
       "highlights": [
         "Hired directly out of my summer internship into full-service dev role on the Cerberos prototype.",
@@ -88,7 +88,7 @@
   "awards": [
     {
       "title": "Digital Awesomeness Pioneer",
-      "date": "July 2011",
+      "date": "2011-08-01",
       "awarder": "GrokLab",
       "summary": "Invented novel ray-tracing technique for GrokLab's 'Summer of Code'."
     }
@@ -99,8 +99,8 @@
       "institution": "Boston University",
       "area": "BS in Computer Science.",
       "studyType": "Bachelor of Science",
-      "startDate": "Sept 2000",
-      "endDate": "Jun 2004",
+      "startDate": "2000-08-01",
+      "endDate": "2004-06-01",
       "gpa": "3.7",
       "courses": []
     }
@@ -109,7 +109,7 @@
   "publications": [{
     "name": "Slices of Pi: Circular Compression for Multicore Systems",
     "publisher": "Association of Computer Science Professionals",
-    "releaseDate": "Oct 2013",
+    "releaseDate": "2013-08",
     "website": "",
     "summary": "A theoretical description and working sample implementation of the [Slices of Pi compression algorithm](http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209) for quantum multicore systems."
   }],
@@ -119,8 +119,8 @@
     "organization": "Coders for Humanity",
     "position": "Volunteer",
     "website": "http://codersforhumanity.org",
-    "startDate": "Mar 2015",
-    "endDate": "Present",
+    "startDate": "2015-03-01",
+    "endDate": "2015-10-01",
     "summary": "Coders for Humanity provides free community programming resources, training, and outreach.",
     "highlights": []
   }],
